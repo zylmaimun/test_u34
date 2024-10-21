@@ -1,2 +1,2 @@
 # test_u34
-Telerik Upskill DevIIOps Couse
+Telerik Upskill DevIIOps Couse Test Repo
